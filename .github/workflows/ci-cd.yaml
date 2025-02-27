@@ -168,3 +168,4 @@ jobs:
           cd frontend/e2e
           npm i
           npm run smoke
+          # Test
